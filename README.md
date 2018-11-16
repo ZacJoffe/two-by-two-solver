@@ -6,6 +6,6 @@ However, the cube had to be modified in two ways for this project. First off, th
 
 The colour sensor was not able to measure orange, so the orange stickers on the cube had to be peeled off.
 
-This code uses an algorithm created by the GitHub user wbernoudy. The project is licensed as completely free to use under the MIT License, and can be found at the following link: https://github.com/wbernoudy/pocket-cube-solver
+This code uses an algorithm created by the GitHub user wbernoudy. The project is licensed as completely free to use under the MIT License, and can be found at the [here](https://github.com/wbernoudy/pocket-cube-solver). 
 
-The MindCuber can also be found at the following link: http://mindcuber.com/
+The MindCuber can be found [here](http://mindcuber.com/).
